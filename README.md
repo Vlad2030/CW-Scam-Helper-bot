@@ -11,7 +11,7 @@ telegram chat: https://t.me/+aPzyHAQoMSE1NzYy
   ```
 
 ## usage:
-** for windows: **
+*for windows:*
 > open SCAMBOT.exe
-### or
+### or (others)
 > open cmd and write `python main.py`
