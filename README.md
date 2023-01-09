@@ -6,12 +6,7 @@ telegram chat: https://t.me/+aPzyHAQoMSE1NzYy
 
 ## install:
   ```
-  pip install aiogram
-  pip install asyncio
+ nothing needs to be done. the script will install everything by itself!
   ```
 
-## usage:
-*for windows:*
-> open SCAMBOT.exe
-### or (others)
-> open cmd and write `python main.py`
+## thank to Alexey Alferov for help
